@@ -1,0 +1,26 @@
+/* Apply CSS Using Tags */
+h1 {
+    color: red;
+}
+
+/* Apply CSS Using Classes */
+.flexy {
+    display: flex;
+    justify-content: center;
+}
+
+/* Apply CSS Using IDs */
+#text {
+    font-size: 15px;
+    font-style: bold;
+}
+
+#plainButton {
+    margin: 1%;
+    padding: 3%;
+    border: 1px solid red;
+    border-radius: 10%;
+    font-size: 10px;
+    background-color: red;
+    color: white;
+}
